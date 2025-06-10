@@ -12,6 +12,7 @@
   <ul>
    <li> Nuxt </li>
    <li> Typescript </li>
+   <li> Golang </li>
   </ul>
  </li>
  <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music, 🎤 sing a song and 🧩 building models.</li>
