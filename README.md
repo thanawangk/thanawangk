@@ -5,8 +5,8 @@
 &nbsp;&nbsp;&nbsp;**Hi!** I am a Front-End Developer with 3 years of experience in designing, developing and enhancing web applications, with a strong aspiration to grow into a Full-Stack Developer in the near future.
 <ul>
  <li>🎓 <b>I'm graduated</b>: Computer Engineering at the University of Kasetsart Sriracha Campus.</li>
- <li>🔭 <b>I'm looking for a job</b>: Front-End or Full-Stack Developer. 
-<!--   Please have a look at my [RESUME]() for more details about me. -->
+ <!--  <li>🔭 <b>I'm looking for a job</b>: Front-End or Full-Stack Developer. 
+ Please have a look at my [RESUME]() for more details about me. -->
  </li>
  <li>🌱 <b>I’m currently learning</b>:
   <ul>
@@ -26,7 +26,7 @@
    <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="mailto: thanawat.wangk@gmail.com">thanawat.wangk@gmail.com</a> or catch and follow me from the below links 👇</li> -->
 </ul>
 
-<h2>Unity Games</h2>
+<h2>Unity games</h2>
 <center>
  <ul>
   <li>🏃‍♂️ <a href ="https://play.unity.com/mg/2d/yeah-mowp">2D Yeah</a></li>
