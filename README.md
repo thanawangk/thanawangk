@@ -12,7 +12,6 @@
   <ul>
    <li> Nuxt </li>
    <li> Typescript </li>
-   <li> Golang </li>
   </ul>
  </li>
  <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music, 🎤 sing a song and 🧩 building models.</li>
@@ -26,7 +25,7 @@
    <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="mailto: thanawat.wangk@gmail.com">thanawat.wangk@gmail.com</a> or catch and follow me from the below links 👇</li> -->
 </ul>
 
-<h2>Unity games</h2>
+<h2>My micro games</h2>
 <center>
  <ul>
   <li>🏃‍♂️ <a href ="https://play.unity.com/mg/2d/yeah-mowp">2D Yeah</a></li>
