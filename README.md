@@ -15,7 +15,7 @@
   </ul>
  </li>
  <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music, 🎤 sing a song and 🧩 building models.</li>
- <li>⚡ <b>Fun fact</b>: 🔫 <a href ="https://play.unity.com/mg/fps/gbfpseekk">FPS The Gates</a> 🏎️ <a href ="https://play.unity.com/mg/karting/heaven-kart">Heaven kart</a> 🏃‍♂️ <a href ="https://play.unity.com/mg/2d/yeah-mowp">2D Yeah</a></li>
+ <li>🕹️ <b>My games</b>: 🔫 <a href ="https://play.unity.com/mg/fps/gbfpseekk">FPS The Gates</a> 🏎️ <a href ="https://play.unity.com/mg/karting/heaven-kart">Heaven kart</a> 🏃‍♂️ <a href ="https://play.unity.com/mg/2d/yeah-mowp">2D Yeah</a></li>
  <!-- <li>🕹️ <b>My games</b>:
   <ul>
    <li> <a href ="https://play.unity.com/mg/fps/gbfpseekk">FPS The Gates</a></li> </li>
@@ -35,13 +35,13 @@
  </ul>
 </center> -->
 
-<h2>Connect with me</h2>
+<!-- <h2>Connect with me</h2>
 
 <p>
  <a href="https://linkedin.com/in/thanawangk" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-download-fg-dsk-v01-2x.png" height="30" width="30" /></a>
   &nbsp;
  <a href="https://fb.com/bankbaii" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="30" width="30" /></a>
-</p>
+</p>  -->
 
 
 <!--  <h2 align="center">✨ Skills ✨</h2>
