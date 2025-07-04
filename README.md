@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-&nbsp;&nbsp;&nbsp;**Hi!** I am a Front-End Developer with 3 years of experience in designing, developing and enhancing web applications, with a strong aspiration to grow into a Full-Stack Developer in the near future.
+&nbsp;&nbsp;&nbsp;**Hi!** I am a Front-End Developer with experience in designing, developing and enhancing web applications, with a strong aspiration to grow into a Full-Stack Developer in the near future.
 <ul>
  <li>🎓 <b>I'm graduated</b>: Computer Engineering at the University of Kasetsart Sriracha Campus.</li>
  <!--  <li>🔭 <b>I'm looking for a job</b>: Front-End or Full-Stack Developer. 
@@ -14,16 +14,9 @@
    <li> Unity </li>
   </ul>
  </li>
- <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music, 🎤 sing a song and 🧩 building models.</li>
+ <!-- <li>⚡ <b>Fun fact</b>: 🎵 I love to listen to music, 🎤 sing a song and 🧩 building models.</li> -->
  <li>🕹️ <b>My games</b>: 🔫 <a href ="https://play.unity.com/mg/fps/gbfpseekk">FPS The Gates</a> 🏎️ <a href ="https://play.unity.com/mg/karting/heaven-kart">Heaven kart</a> 🏃‍♂️ <a href ="https://play.unity.com/mg/2d/yeah-mowp">2D Yeah</a></li>
- <!-- <li>🕹️ <b>My games</b>:
-  <ul>
-   <li> <a href ="https://play.unity.com/mg/fps/gbfpseekk">FPS The Gates</a></li> </li>
-   <li> <a href ="https://play.unity.com/mg/2d/yeah-mowp">2D Yeah</a>&nbsp; </li>
-   <li> <a href ="https://play.unity.com/mg/karting/heaven-kart">Heaven kart</a>&nbsp; </li>
-  </ul>
- </li>
- <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="mailto: thanawat.wangk@gmail.com">thanawat.wangk@gmail.com</a> or catch and follow me from the below links 👇</li> -->
+ <!-- <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="mailto: thanawat.wangk@gmail.com">thanawat.wangk@gmail.com</a> or catch and follow me from the below links 👇</li> -->
 </ul>
 
 <!-- <h2>My micro games</h2>
