@@ -2,7 +2,7 @@
 
 <h2>About me</h2>
 
-&nbsp;&nbsp;&nbsp;**Hi!** I am a Front-End Developer with experience in designing, developing and enhancing web applications and a freelance Software Engineer from Thailand, with a strong aspiration to grow into a Full-Stack Developer in the near future.
+&nbsp;&nbsp;&nbsp;**Hi!** I am a Front-End Developer with experience in designing, developing and enhancing web applications, with a strong aspiration to grow into a Full-Stack Developer in the near future.
 
 <ul>
  <li>🎓 <b>I'm graduated</b>: Computer Engineering at the University of Kasetsart Sriracha Campus.</li>
