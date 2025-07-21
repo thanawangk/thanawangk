@@ -32,7 +32,7 @@
 </p>
 
 
-<h2 align="center">📚 GitHub Stats 📚</h2>
+<!--  <h2 align="center">📚 GitHub Stats 📚</h2>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawangk&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="thanawangk" height="150" width="300" />
  &nbsp;
