@@ -24,11 +24,11 @@
  <!--  <li>📫 <b>How to reach me</b>: You can shoot me an email at <a href ="mailto: thanawat.wangk@gmail.com">thanawat.wangk@gmail.com</a> or catch and follow me from the below links 👇</li>  -->
 </ul>
 
-<!--  ## Connect with me
+## Connect with me
 <p>
  <a href="https://linkedin.com/in/thanawangk" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/in-logo/fg/brand-inlogo-download-fg-dsk-v01.png/jcr:content/renditions/brand-inlogo-download-fg-dsk-v01-2x.png" height="30" width="30" /></a>
-  &nbsp;
- <a href="https://fb.com/bankbaii" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="30" width="30" /></a>
+<!--  &nbsp;
+ <a href="https://fb.com/bankbaii" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" height="30" width="30" /></a>  -->
 </p>
 
 
